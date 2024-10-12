@@ -1,0 +1,36 @@
+##############################################################################
+READ ME
+##############################################################################
+ABOUT:
+	Hank is a limited virtual assistant. He is written in python, and uses the 
+	command line heavily. He is easy to use, and requires very little setup.
+PRE-REQUISITS:
+	Hank was written on Ubuntu 20.04, using python, and utilizes a few terminal 
+	commands. Iam not sure if this will allow Hank to run on Windows machines 
+	or not. This has not been tested yet. The following libraries will need to
+	be installed into your python environment:
+		-os
+		-math
+		-time
+		-random
+		-nlt.corpus.wordnet
+		-wikipedia
+USE:
+	Hank can currently perform the following tasks:
+		-Speak with an accompanying animation
+		-Report the time
+		-Report the weather
+		-Tell a joke
+		-Provide basic information about a topic
+		-Remember and report information about a given person
+		-Play rock, paper, scissors
+KNOWN AREAS OF IMPROVEMENT:
+	-Currently only able to introduce new people to Hank by editing 
+	 text file named "people.txt". This will be worked on.
+	-Currently only respnds to text input. Working on voice.
+UPDATES FROM PREVIOUS VERSION:
+	-Menu interface. You no longer need to preemptively call functions before
+	running
+	-Hank now remembers and reports information about a given person.
+	-
+

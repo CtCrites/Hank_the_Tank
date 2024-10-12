@@ -1,0 +1,22 @@
+-Clay
+Mom: Tiana
+Dad: Cameron
+Food: Pumpkin
+-Cameron
+Birthday: 12/26/2002
+Height: 6'2"
+Hometown: Milton
+Mother: Pam
+Father: Dean
+Wife: Tiana
+Brother: Billy
+Major: Physics
+Dog: Loki
+Cat: Eliza
+Dog: Loki
+-Tiana
+Husband: Cameron
+Cat: Coco
+Dog: Nina
+Season: Fall
+-
