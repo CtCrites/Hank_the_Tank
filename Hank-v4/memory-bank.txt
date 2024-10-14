@@ -1,0 +1,6 @@
+#This will serve as the memory bank for assistant Hank.
+-Cameron
+Wife: Tiana
+Son: Clay
+Birthday: 12/26/2002
+Major: Physics
